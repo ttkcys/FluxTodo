@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>671634894253-3ibn1n9j98bj7chfrfhjbv15ft0ii05d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.671634894253-3ibn1n9j98bj7chfrfhjbv15ft0ii05d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDTN_ZIII5JAj2oDaDllZflm9oORKz_LvA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>671634894253</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fluxtodo</string>
+	<key>PROJECT_ID</key>
+	<string>fluxtodo-3bcd9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fluxtodo-3bcd9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:671634894253:ios:785c8063c5e6615b350524</string>
+</dict>
+</plist>

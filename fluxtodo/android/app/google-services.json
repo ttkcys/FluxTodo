@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "671634894253",
+    "project_id": "fluxtodo-3bcd9",
+    "storage_bucket": "fluxtodo-3bcd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671634894253:android:f0a62bfbc9810fd3350524",
+        "android_client_info": {
+          "package_name": "com.example.fluxtodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671634894253-bopuu4rf2t8fr1h1ap1fcih3mggf0ola.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVtm6YqufFCQJpWxMtL1df5SYIeHkZVl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671634894253-bopuu4rf2t8fr1h1ap1fcih3mggf0ola.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "671634894253-3ibn1n9j98bj7chfrfhjbv15ft0ii05d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fluxtodo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
